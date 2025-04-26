@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/ismartswag_amal" target="blank"><img src="https://img.shields.io/twitter/follow/ismartswag_amal?logo=twitter&style=for-the-badge" alt="ismartswag_amal" /></a> </p>
 
-- 🌱 I’m currently learning **React,Data Science,**
+- 🌱 I’m currently working as **Python Devloper**
 
-- 👯 I’m looking to collaborate on **backend development**
+- 👯 I’m looking to collaborate on **backend development, captcha bypassing**
 
 - 👨‍💻 All of my projects are available at [https://amalmathew21.github.io/Portfolio/](https://amalmathew21.github.io/Portfolio/)
 
